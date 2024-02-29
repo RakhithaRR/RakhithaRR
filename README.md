@@ -1,5 +1,9 @@
 [![An image of @rakhitharr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakhitharr)](https://holopin.io/@rakhitharr)
 
+<!--<a href="https://github.com/RakhithaRR/RakhithaRR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakhithaRR&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Rakhitha's GitHub Stats" />
+</a>-->
+
 <!--
 **RakhithaRR/RakhithaRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
