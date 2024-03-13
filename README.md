@@ -4,6 +4,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakhithaRR&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Rakhitha's GitHub Stats" />
 </a>-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakhithaRR&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)](https://git.io/streak-stats)
+
 <!--
 **RakhithaRR/RakhithaRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
